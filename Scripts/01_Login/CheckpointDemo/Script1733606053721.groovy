@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint1'), true)
 
+WebUI.closeBrowser()
+
