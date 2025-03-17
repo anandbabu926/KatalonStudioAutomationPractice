@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AIAssistDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed4c8f63-bdf1-4819-b2ef-402e74f2a7cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a100e174-dd70-428e-bef2-71aa52224ae8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5ffc5bf-1531-4acb-85c4-4f6c3bbf110c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'discoverhere@gmail.com'</defaultValue>
+      <description></description>
+      <id>a100e174-dd70-428e-bef2-71aa52224ae8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'iGDxf8hSRT4='</defaultValue>
+      <description></description>
+      <id>f5ffc5bf-1531-4acb-85c4-4f6c3bbf110c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

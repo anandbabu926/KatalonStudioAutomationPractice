@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_valid_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7abe4c2c-0a65-4c34-a014-efc5a7f753b0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>777cf990-e72f-4cf6-b292-bd566ad883e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69075722-7796-451b-a0f0-ef7ee04ec7de</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'discoverhere@gmail.com'</defaultValue>
+      <description></description>
+      <id>777cf990-e72f-4cf6-b292-bd566ad883e3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'iGDxf8hSRT4='</defaultValue>
+      <description></description>
+      <id>69075722-7796-451b-a0f0-ef7ee04ec7de</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

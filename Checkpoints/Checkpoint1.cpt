@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginData</source-url>
+   </source-info>
+   <taken-date>2024-12-07T21:13:18.398Z</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "discoverhere@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "iGDxf8hSRT4\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "discoverhere1@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "iGDxf8hSRT4\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "discoverhere@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "iGDxf8hSRT4",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
