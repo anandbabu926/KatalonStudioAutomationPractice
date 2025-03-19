@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::li[1]</value>
+         <value>//div[@id='center_column']/div/ol/li</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>3151633c-31ac-4cf6-ad5c-9c6704a8b570</webElementGuid>
+      <webElementGuid>8a99045a-98a0-4d10-becf-73c9b5a2d8d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Authentication failed.</value>
-      <webElementGuid>eb7f9e55-b059-40f5-b76f-a1d633da9e86</webElementGuid>
+      <webElementGuid>171786ef-19db-45c2-9ec5-6b51235cd4af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;center_column&quot;)/div[@class=&quot;alert alert-danger&quot;]/ol[1]/li[1]</value>
-      <webElementGuid>df94ad45-7c43-4f9d-9df4-26e254927a61</webElementGuid>
+      <webElementGuid>00969963-fc4b-4189-a7a6-e616f6b75a5a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='center_column']/div/ol/li</value>
-      <webElementGuid>c8176b0e-4ca0-4cf1-83d6-8601d666815d</webElementGuid>
+      <webElementGuid>b4f0d62e-3f0f-4e77-9b17-fc6005fbc8d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::li[1]</value>
-      <webElementGuid>8cfa2d08-9d65-4201-8c3f-166b6cf150ca</webElementGuid>
+      <webElementGuid>5c908611-66ce-4aad-9b8a-0cad56e2b840</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::li[1]</value>
-      <webElementGuid>428e81a4-6fa4-414f-9000-3504720923df</webElementGuid>
+      <webElementGuid>44f64cf9-9ec7-46c2-a2ad-019e9221837e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/preceding::li[1]</value>
-      <webElementGuid>968490c1-6670-46ec-ae0a-666fd3ba5aeb</webElementGuid>
+      <webElementGuid>c37df340-d49a-45ab-a86c-30a97ff422e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::li[1]</value>
-      <webElementGuid>8282e167-9bc0-45c2-bb6e-5ec6bc88fbe0</webElementGuid>
+      <webElementGuid>91d68cb8-7dd6-4f59-a87e-9ffcff1a7919</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Authentication failed.']/parent::*</value>
-      <webElementGuid>f23569ea-26a1-4296-8c96-b4b69a19dd8b</webElementGuid>
+      <webElementGuid>e60cedde-8fda-4c10-9c2e-ca1d7ea9d311</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ol/li</value>
-      <webElementGuid>21a4f4de-3a74-4bc0-8bed-103441afe485</webElementGuid>
+      <webElementGuid>b2d56ed0-2601-423d-8cc0-415e5cca644d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Authentication failed.' or . = 'Authentication failed.')]</value>
-      <webElementGuid>0320a2d3-64da-43fa-ac55-69df45024c08</webElementGuid>
+      <webElementGuid>6760f7da-9c98-4ae6-b42f-bbe3047c6006</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
