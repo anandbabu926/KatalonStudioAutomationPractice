@@ -6,12 +6,12 @@
    <elementGuidId>ace1c0ac-efdf-434a-9364-6e5e4842bdb0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#SubmitLogin > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='SubmitLogin']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SubmitLogin > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1b65955d-01e3-45cc-88ed-16b892a29aad</webElementGuid>
+      <webElementGuid>683a1b38-bdf7-49c2-9253-a67df6cd3909</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
 								
 								Sign in
 							</value>
-      <webElementGuid>3b092f86-bea5-4443-a988-725e76b2adb1</webElementGuid>
+      <webElementGuid>d1b3ce76-b5cb-4dc7-82dc-376fa2b9ca63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;SubmitLogin&quot;)/span[1]</value>
-      <webElementGuid>5dd8fe6c-20b6-42eb-8f17-5e0bbc60e0fb</webElementGuid>
+      <webElementGuid>62ca8705-05ff-4df1-beb4-f1f1e8428076</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='SubmitLogin']/span</value>
-      <webElementGuid>30fbc296-19ea-478f-b7f4-ea7afd9237ba</webElementGuid>
+      <webElementGuid>43fdf2e3-fd94-48a0-ac61-0adf6d39f2b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/following::span[1]</value>
-      <webElementGuid>f9adc80b-967c-498c-8a95-e27ee770a8e1</webElementGuid>
+      <webElementGuid>60d795f8-d111-4fca-8993-15db221d4131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
-      <webElementGuid>7e30446b-f8fe-412d-83b2-fdedd35982f4</webElementGuid>
+      <webElementGuid>c3124e96-c359-4715-b3ad-e5c8b789e84b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::span[1]</value>
-      <webElementGuid>ea980386-c832-4bf6-a1f6-0060ee028785</webElementGuid>
+      <webElementGuid>9c04c037-24fa-452f-ad14-70caf26b2f70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::span[1]</value>
-      <webElementGuid>7901ef66-9363-4303-90c2-a7a86daa0678</webElementGuid>
+      <webElementGuid>8e546436-7c07-4955-861b-9a69c10cf1d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[2]/button/span</value>
-      <webElementGuid>653d96c0-6e98-4694-bbc0-552f23182c50</webElementGuid>
+      <webElementGuid>dc413ce2-b349-4ff6-9aa4-aec1d3b5269f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
 								
 								Sign in
 							')]</value>
-      <webElementGuid>5e2e7b58-311b-47a7-9185-39733ba0e9ef</webElementGuid>
+      <webElementGuid>8ada76ac-43cf-4347-96ad-9eedca7fcc44</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

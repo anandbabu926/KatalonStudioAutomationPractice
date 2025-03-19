@@ -33,3 +33,5 @@ WebUI.click(findTestObject('Object Repository/Page_Login - My Shop/span_Sign in'
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_My account - My Shop/span_Discover here'), 'Discover here')
 
+WebUI.closeBrowser()
+

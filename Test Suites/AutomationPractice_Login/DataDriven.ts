@@ -15,7 +15,7 @@
       <guid>d9a74988-f6ac-4f3f-a5b6-243585106c3f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/01_Login/DataDrivenTesting</testCaseId>
+      <testCaseId>Test Cases/AutomationPractice/01_Login/DataDrivenTesting</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>df4deb2d-a463-4ad8-b562-50d23bc74446</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AccountsPage/PersonalInfo</testCaseId>
+      <testCaseId>Test Cases/AutomationPractice/02_AccountsPage/PersonalInfo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

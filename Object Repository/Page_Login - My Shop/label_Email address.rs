@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='login_form']/div/div/label</value>
+         <value>//form[@id='login_form']/div/div/label2</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>ff4802e6-cd88-4e91-805f-1a1ae3fd68f8</webElementGuid>
+      <webElementGuid>762ea733-e70d-408b-987c-1e3723a083e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>0573271a-b00a-4162-84ad-a7716929e3b5</webElementGuid>
+      <webElementGuid>de57bb95-5a07-4ed1-8415-94e4e84f8ac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Email address</value>
-      <webElementGuid>a188d8b6-e468-4682-abde-bef49d176711</webElementGuid>
+      <webElementGuid>093eed34-f62a-47ae-ba5a-2e50fb6f7510</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_form&quot;)/div[@class=&quot;form_content clearfix&quot;]/div[@class=&quot;form-group&quot;]/label[1]</value>
-      <webElementGuid>e3499596-40cb-4c53-bc8e-f9ad5c8ad965</webElementGuid>
+      <webElementGuid>7c969570-4ec1-4534-9220-3345ebb22fd5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login_form']/div/div/label</value>
-      <webElementGuid>5812b2fa-d1cf-4641-9ee4-e45673c03417</webElementGuid>
+      <webElementGuid>0220a58b-9fb6-4b8d-82b3-53ce0bd6bbc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Already registered?'])[1]/following::label[1]</value>
-      <webElementGuid>aa3dae03-f446-4d13-a6fa-b4f562766fc2</webElementGuid>
+      <webElementGuid>bdace001-7506-4111-90ba-59a4379fa259</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::label[1]</value>
-      <webElementGuid>f65491c6-0670-4b8b-add6-b8287bfbfda6</webElementGuid>
+      <webElementGuid>4bb6088c-63d6-4be3-8746-7870e84fa9ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::label[2]</value>
-      <webElementGuid>b085d7aa-21c0-496f-ab48-4b82868a7005</webElementGuid>
+      <webElementGuid>4846d38b-d61b-4802-a130-9ae6dee657b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/div/div/label</value>
-      <webElementGuid>7ef56fe5-dc2a-453a-8853-1b21b7617890</webElementGuid>
+      <webElementGuid>012168e1-a8dd-4f76-b112-bf7dfbc4fa89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Email address' or . = 'Email address')]</value>
-      <webElementGuid>53a75653-78db-48db-a3d0-577eb48c343b</webElementGuid>
+      <webElementGuid>2604b4d4-226b-4669-b722-4036e14f5f34</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

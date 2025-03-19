@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('01_Login/verify_valid_login'), [('username') : 'discoverhere@gmail.com', ('password') : 'iGDxf8hSRT4='], 
+WebUI.callTestCase(findTestCase('AutomationPractice/01_Login/verify_valid_login'), [('username') : 'discoverhere@gmail.com', ('password') : 'iGDxf8hSRT4='], 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_My account - My Shop/span_My personal information'))
